@@ -5,10 +5,10 @@
 	"status": 2,
 	"id": "100086800055498",
 	"name": "",
-	"screenname": "Alice Alves",
+	"screenname": "Beatriz Ribeiro",
 	"birthdate": "1991 April 15",
-	"country": "",
-	"isAvatarExists": false,
+	"country": "Aires",
+	"isAvatarExists": true,
 	"cookie": [
 		{
 			"domain": ".facebook.com",
@@ -25,7 +25,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1666127924,
+			"expirationDate": 1666130134,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -90,7 +90,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1673298969.777594,
+			"expirationDate": 1673301224.560841,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -99,7 +99,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0OW9PJ5g0dvxess9d.AWW6W3ePO7qULZ-I658PHmJ4Ojw.BjRdr-.TB.AAA.0.0.BjRd0c.AWUNn37q-pk"
+			"value": "0OW9PJ5g0dvxess9d.AWVN_b2vpDUllY4JfT1G6tXF_VA.BjRdr-.TB.AAA.0.0.BjReXq.AWUDcPN_Oc0"
 		},
 		{
 			"domain": ".facebook.com",
@@ -111,9 +111,9 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1665523099300%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1665525339904%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "11.10.2022 21:38 Registro",
+	"lastEventDate": "11.10.2022 21:56 Farm0",
 	"code2fa": "TJI3NLZ7ROWUVTCTNHFTTHPWBCHFMUBW"
 }
