@@ -5,10 +5,10 @@
 	"status": 2,
 	"id": "100086397355941",
 	"name": "",
-	"screenname": "Heloise Marques",
+	"screenname": "Laura Santana",
 	"birthdate": "1982 August 14",
-	"country": "",
-	"isAvatarExists": false,
+	"country": "Brazil",
+	"isAvatarExists": true,
 	"cookie": [
 		{
 			"domain": ".facebook.com",
@@ -38,7 +38,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1666224577,
+			"expirationDate": 1666226247,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -90,7 +90,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1673395534.778553,
+			"expirationDate": 1673397302.225365,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -99,7 +99,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0qCF4ogOcjXDsJg1r.AWVdvw56JG9TcTAlZcIoa8DqKuc.BjR1PY.0D.AAA.0.0.BjR1ZQ.AWWxaFwd4Lc"
+			"value": "0qCF4ogOcjXDsJg1r.AWUdc2vw7o2dKVNYuovx4jbOOls.BjR1PY.0D.AAA.0.0.BjR103.AWWL66SRb8M"
 		},
 		{
 			"domain": ".facebook.com",
@@ -111,9 +111,9 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1665619778530%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1665621430880%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "13.10.2022 00:31 Registro",
+	"lastEventDate": "13.10.2022 00:37 Farm0",
 	"code2fa": "G5ZD4HKQUOFMWBCDUPSSP5FV2R7FK4R5"
 }
