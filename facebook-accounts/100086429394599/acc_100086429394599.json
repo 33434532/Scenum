@@ -12,7 +12,7 @@
 	"cookie": [
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1666239933,
+			"expirationDate": 1666240193,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -38,7 +38,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1666239934,
+			"expirationDate": 1666240193,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -103,7 +103,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1673410805.141674,
+			"expirationDate": 1673411157.474238,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -112,7 +112,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0ZeoyuBCzSI8tC74X.AWXsfO55hH8NtoDYUvOqkza8qM4.BjR5DQ.C-.AAA.0.0.BjR5H2.AWVh21NM1w4"
+			"value": "0ZeoyuBCzSI8tC74X.AWU_oZpj6VxfYKy7EiqjaC-Iu6M.BjR5DQ.C-.AAA.0.0.BjR5NY.AWVHJbjf5fY"
 		},
 		{
 			"domain": ".facebook.com",
@@ -124,8 +124,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1665635140893%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1665635345953%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "13.10.2022 04:25 Registro"
+	"lastEventDate": "13.10.2022 04:29 Registro"
 }
