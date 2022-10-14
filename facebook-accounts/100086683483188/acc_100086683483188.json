@@ -7,12 +7,25 @@
 	"name": "",
 	"screenname": "Raquel Barbosa",
 	"birthdate": "1996 January 19",
-	"country": "",
-	"isAvatarExists": false,
+	"country": "Brazil",
+	"isAvatarExists": true,
 	"cookie": [
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1666285848,
+			"expirationDate": 1700243004.386161,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "dbln",
+			"path": "/login/device-based/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "%7B%22100086683483188%22%3A%22b9QLOVfC%22%7D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1666316959,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -51,19 +64,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1666285815,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1536x714"
-		},
-		{
-			"domain": ".facebook.com",
 			"expirationDate": 1666285133.574906,
 			"hostOnly": false,
 			"httpOnly": false,
@@ -77,7 +77,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1697216319.575115,
+			"expirationDate": 1697247948.389779,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -90,7 +90,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1697216319.575166,
+			"expirationDate": 1666316959,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1536x714"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1697247948.389886,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -99,11 +112,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "22%3AyI9LzWB2fuaKtQ%3A2%3A1665680333%3A-1%3A-1"
+			"value": "22%3AyI9LzWB2fuaKtQ%3A2%3A1665680333%3A-1%3A-1%3A%3AAcWfu6lEGKnK5madBgB20S6_A5IwWSscvzNmSPuXiQ"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1673456845.62734,
+			"expirationDate": 1673487959.640497,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -112,7 +125,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0301c3TlsJOjduCU9.AWV3wdTVJS-ZOiUKwCJTsD3YQd4.BjSEON.To.AAA.0.0.BjSEXQ.AWVqXCVXQmY"
+			"value": "0xAkHcsgtoePAeXTB.AWUxMCLwKwP5DjYX9AJ5qmD0J08.BjSL9Q.To.AAA.0.0.BjSL9b.AWXZjl04hfA"
 		},
 		{
 			"domain": ".facebook.com",
@@ -124,9 +137,9 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1665681020922%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1665712145535%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "14.10.2022 01:45 Farm1-3_by_scenum",
+	"lastEventDate": "14.10.2022 01:49 Farm1-3_by_scenum",
 	"code2fa": "YPIWCO64FRJDX7K27PVH4DMNQ3OLH577"
 }
