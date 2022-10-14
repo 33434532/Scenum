@@ -5,14 +5,14 @@
 	"status": 2,
 	"id": "100086383287098",
 	"name": "",
-	"screenname": "Olívia Barbosa",
+	"screenname": "Elisa Oliveira",
 	"birthdate": "1992 March 18",
-	"country": "",
-	"isAvatarExists": false,
+	"country": "Quixabeira",
+	"isAvatarExists": true,
 	"cookie": [
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1666275000,
+			"expirationDate": 1666320694,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -51,7 +51,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1666274973,
+			"expirationDate": 1666320695,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -77,7 +77,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1697205525.530011,
+			"expirationDate": 1697251684.864366,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -90,7 +90,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1697205525.530059,
+			"expirationDate": 1697251684.864427,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -99,11 +99,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "49%3AMGtDm6GhVoaG7w%3A2%3A1665669542%3A-1%3A-1"
+			"value": "49%3AMGtDm6GhVoaG7w%3A2%3A1665669542%3A-1%3A-1%3A%3AAcWhkelENbMv_xf4RgRy5DZpzfuLOFPm_nzv6rp4BQ"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1673446047.383172,
+			"expirationDate": 1673491686.111241,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -112,7 +112,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0fH8eAfDwaThOHPKt.AWVO91NicFVC1ImGRu5vLQ7YxIg.BjSBlj.iR.AAA.0.0.BjSBuh.AWUl5TUmQB0"
+			"value": "0HQ1Ssepycbyar25e.AWX6nqqzLRDHgeWCip3qRqhDw4w.BjSM3o.iR.AAA.0.0.BjSM3p.AWWbtRiQ_FM"
 		},
 		{
 			"domain": ".facebook.com",
@@ -124,9 +124,9 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1665670178606%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1665715861830%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "14.10.2022 02:47 Farm1-3_by_scenum",
+	"lastEventDate": "14.10.2022 02:51 Farm1-3_by_scenum",
 	"code2fa": "NCBDMD4LZABWMKATIE3EPKHKW57R5VUR"
 }
