@@ -128,5 +128,8 @@
 		}
 	],
 	"lastEventDate": "17.10.2022 19:24 Criar Pagina",
-	"code2fa": "LQZC2Z443LXFCG2HDGQGCLYQNVFA6Z4E"
+	"code2fa": "LQZC2Z443LXFCG2HDGQGCLYQNVFA6Z4E",
+	"funPages": [
+		"https://web.facebook.com/profile.php?id=100086615452043"
+	]
 }
