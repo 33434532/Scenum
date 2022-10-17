@@ -51,7 +51,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1697477596.090985,
+			"expirationDate": 1697523366.354408,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -64,20 +64,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1666546594,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1346x597"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1697477596.091078,
+			"expirationDate": 1697523366.354834,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -86,11 +73,24 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1%3A2oRXO9k46MYZOg%3A2%3A1665522486%3A-1%3A-1%3A%3AAcVoX7na2a3q1fkbPpmSGmxheevmf_qLa_BXIBsajg"
+			"value": "1%3A2oRXO9k46MYZOg%3A2%3A1665522486%3A-1%3A-1%3A%3AAcUtlG_83Ot5M0wcgs2E_4UEQRopWVHehF8g3dVj6A"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1673717607.902543,
+			"expirationDate": 1666592449,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1347x592"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1673763397.890364,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -99,7 +99,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "02gVDoa3t6zZb7tkk.AWWib6zWcwzZJec511EghudvecQ.BjTEBa.TB.AAA.0.0.BjTEBo.AWWHOflyFBU"
+			"value": "0IIpwN8edO2IyGTVA.AWUxgsmtZNR063RyIdHl0wtWWbM.BjTPMm.TB.AAA.0.0.BjTPNG.AWWuI1Rz3pw"
 		},
 		{
 			"domain": ".facebook.com",
@@ -111,9 +111,9 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1665941782278%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1665987649853%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "16.10.2022 18:11 Farm3-8_by_scenum",
+	"lastEventDate": "17.10.2022 06:20 Criar Pagina",
 	"code2fa": "TJI3NLZ7ROWUVTCTNHFTTHPWBCHFMUBW"
 }
