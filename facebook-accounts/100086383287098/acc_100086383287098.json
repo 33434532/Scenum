@@ -116,5 +116,8 @@
 	],
 	"lastEventDate": "20.10.2022 22:59 Criar Pagina",
 	"code2fa": "NCBDMD4LZABWMKATIE3EPKHKW57R5VUR",
-	"amountFriends": ""
+	"amountFriends": "",
+	"funPages": [
+		"https://web.facebook.com/profile.php?id=100086641585759"
+	]
 }
