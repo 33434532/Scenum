@@ -38,7 +38,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1698462057.642799,
+			"expirationDate": 1698562042.328032,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -51,20 +51,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1666932098,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1667531060,
+			"expirationDate": 1667631030,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -89,7 +76,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1698462057.642885,
+			"expirationDate": 1698562042.328128,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -98,11 +85,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "14%3AVrmLlAXALP7eqA%3A2%3A1665549980%3A-1%3A5538%3A%3AAcVGLtQyTha9KG2pBvRm_URsO217aUwdGNM1_Wx2ftw"
+			"value": "14%3AVrmLlAXALP7eqA%3A2%3A1665549980%3A-1%3A5538%3A%3AAcWi3fJAIybTTu9iCZKOVK1aAHxIWTUrVX6zJTi2kE8"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674702062.201488,
+			"expirationDate": 1674802046.64028,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -111,7 +98,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0npdvFd5IbWYWEZd5.AWUsNooTNHkbPm4p42Tde0hYrhk.BjW0Xq.ny.AAA.0.0.BjW0Xv.AWXowi51r6Y"
+			"value": "0QvPNVaoRj2dr0Qyv.AWVKq54fFgit2LWReSfH6UZNlFM.BjXMx7.ny.AAA.0.0.BjXMx_.AWVL2BU-_w8"
 		},
 		{
 			"domain": ".facebook.com",
@@ -123,13 +110,13 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1666926240626%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.100085432533183%22%7D%5D%2C%22utc3%22%3A1667026210738%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "29.10.2022 06:46 Farm3-8_by_scenum",
+	"lastEventDate": "29.10.2022 06:50 Farm3-8_by_scenum",
 	"code2fa": "LQZC2Z443LXFCG2HDGQGCLYQNVFA6Z4E",
 	"funPages": [
 		"https://web.facebook.com/profile.php?id=100086615452043"
 	],
-	"amountFriends": "124"
+	"amountFriends": "122"
 }
