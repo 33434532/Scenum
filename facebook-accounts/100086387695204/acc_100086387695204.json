@@ -38,7 +38,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1698458862.54226,
+			"expirationDate": 1698559609.299893,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -76,7 +76,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1667527828,
+			"expirationDate": 1667628574,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -89,7 +89,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1698458862.54236,
+			"expirationDate": 1698559609.299982,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -98,11 +98,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "27%3Avs8xfj4v77H_Mg%3A2%3A1665543103%3A-1%3A2366%3A%3AAcUlRWXSIzj_lbiK4moNOJ87DWjfH6NdrR6Nk8sQh-s"
+			"value": "27%3Avs8xfj4v77H_Mg%3A2%3A1665543103%3A-1%3A2366%3A%3AAcXAk7t1k7r_nVAAYLiBoaVr4yd9ndsprFWCusgSdMQ"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674698866.136484,
+			"expirationDate": 1674799612.283216,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -111,7 +111,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0HB6drvqGZPCuMIMt.AWX9wMfhBAXNAQhwm2pT62Rihg0.BjWzlv.J3.AAA.0.0.BjWzly.AWWLG1BoNdY"
+			"value": "05p0xUe5DXwSYvdgL.AWXO7OA4DkjBEbWCM8yGtEqw6bM.BjXML6.J3.AAA.0.0.BjXML9.AWXpZtuF-YE"
 		},
 		{
 			"domain": ".facebook.com",
@@ -123,13 +123,13 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.100024435653512%22%7D%5D%2C%22utc3%22%3A1666923005375%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.100024435653512%22%7D%5D%2C%22utc3%22%3A1667023766685%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "29.10.2022 06:06 Farm3-8_by_scenum",
+	"lastEventDate": "29.10.2022 06:09 Farm3-8_by_scenum",
 	"code2fa": "C3NZSFMR4S3IC5GD5BL5S2QXVZLLKU2F",
 	"funPages": [
 		"https://web.facebook.com/profile.php?id=100087061683850"
 	],
-	"amountFriends": "29"
+	"amountFriends": "55"
 }
