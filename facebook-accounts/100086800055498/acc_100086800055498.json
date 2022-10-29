@@ -8,7 +8,7 @@
 	"screenname": "Beatriz Ribeiro",
 	"birthdate": "1991 April 15",
 	"country": "Aires",
-	"isAvatarExists": true,
+	"isAvatarExists": false,
 	"cookie": [
 		{
 			"domain": ".facebook.com",
@@ -38,7 +38,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1698455690.341581,
+			"expirationDate": 1698556296.074966,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -48,19 +48,6 @@
 			"session": false,
 			"storeId": "0",
 			"value": "100086800055498"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1666937357,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "cppo",
-			"path": "/",
-			"sameSite": "unspecified",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1"
 		},
 		{
 			"domain": ".facebook.com",
@@ -89,7 +76,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1667524702,
+			"expirationDate": 1667625265,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -98,11 +85,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1346x599"
+			"value": "1346x596"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1698455690.341665,
+			"expirationDate": 1698556296.075053,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -111,11 +98,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1%3A2oRXO9k46MYZOg%3A2%3A1665522486%3A-1%3A5481%3A%3AAcUEizQ6DXSkvwu-CJeso5mgwpAUamsmx9SSfhbtn74"
+			"value": "1%3A2oRXO9k46MYZOg%3A2%3A1665522486%3A-1%3A5481%3A%3AAcU1JTwa0JbUroWJbGWq0m7GvyMAwnZ0RFigQ52iUbI"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674695697.227467,
+			"expirationDate": 1674796295.075112,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -124,7 +111,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0s7L6ux1P6oC5b5BR.AWUsfU_KDIVzyJdf_AKJ3K0lNU8.BjWy0K.TB.AAA.0.0.BjWy0R.AWXH65F333o"
+			"value": "0ouwKUqp41I3chEwn.AWWp4sw-1LM26VxCQWyAKKksXNA.BjXLYI.TB.AAA.0.0.BjXLYI.AWXIttnugv4"
 		},
 		{
 			"domain": ".facebook.com",
@@ -136,10 +123,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1666919911416%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.100082628943837%22%7D%2C%7B%22i%22%3A%22u.100086847605955%22%7D%5D%2C%22utc3%22%3A1667020406055%2C%22lm3%22%3A%22u.100022500618646%22%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "29.10.2022 05:10 Farm3-8_by_scenum",
+	"lastEventDate": "29.10.2022 05:14 Farm3-8_by_scenum",
 	"code2fa": "TJI3NLZ7ROWUVTCTNHFTTHPWBCHFMUBW",
 	"funPages": [
 		"https://web.facebook.com/profile.php?id=100086591631957"
